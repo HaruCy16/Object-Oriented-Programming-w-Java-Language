@@ -117,9 +117,13 @@ class Circle extends Shape {
        return Math.PI * radius * radius;
    }
 }
+<<<<<<< HEAD
 
 ```
 
+=======
+```
+>>>>>>> f31fc5e5d401d5e656cd03f056523d071d36c8d0
 <div align="center">
  <h2>CREATED BY: CYRUS WILSON</h2>
 </div>
